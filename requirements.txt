@@ -1,0 +1,6 @@
+beautifulsoup4
+pandas
+#mpi4py
+requests
+airflow
+sf3s
