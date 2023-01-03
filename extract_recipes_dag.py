@@ -20,7 +20,7 @@ default_args = {
 dag = DAG(
     'recipe_web_scraping_dag',
     default_args=default_args,
-    description='My first etl code'
+    description='ETL code to scrape recipes'
 )
 
 run_etl = PythonOperator(
