@@ -10,3 +10,10 @@
 ## Dashboard
 
 ![quicsight](https://github.com/pjeena/Data-Engineering-Pipeline-using-airflow-AWS_glue-redshift-athena-quicksight/blob/main/Quicksight_allrecipes_visual.jpg)
+
+
+# Future Work
+
+* Persiinalized Recipe recommender system based on food nutrients could be developed.
+* Sentiment analysis of the reviews on recipe websites.
+* Images can be collected from different recipes and a food recognition system could be developed showing nutritional values.
