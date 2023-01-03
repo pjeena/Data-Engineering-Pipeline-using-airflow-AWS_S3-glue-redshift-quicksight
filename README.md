@@ -6,6 +6,7 @@
 * Launched AWS Glue job to migrate data from S3 to redshift
 * Wrote SQL queries to query data and visualize in Amazon [Quicksight](https://github.com/pjeena/Data-Engineering-Pipeline-using-airflow-AWS_S3-glue-redshift-quicksight/blob/main/Quicksight_allrecipes_visual.jpg).
 
+![Illustration](https://github.com/pjeena/Data-Engineering-Pipeline-using-airflow-AWS_S3-glue-redshift-quicksight/blob/main/pipeline.jpeg)
 
 ## Dashboard
 
